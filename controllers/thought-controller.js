@@ -2,7 +2,7 @@ const { Thought } = require('../models');
 
 const thoughtController = {
   // get all thoughts
-  getAllThought(req, res) {
+  getAllThoughts(req, res) {
     Thought.find({})
       .populate({
         path: 'comments',
