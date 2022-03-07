@@ -9,7 +9,7 @@ social network api allows users to post thoughts and comments
 * [Usage](#usage)
 * [License](#license)
 * [Contributing](#contributing)
-* [Tests](#tests)
+* [Site](#Site)
 * [Questions](#questions)
 
 ## Installation
@@ -29,8 +29,10 @@ The application uses the MIT license.
 ## Contributing
 ok
 
-## Tests
-ok
+## Site
+https://github.com/hankhint/social-network-api
+Walkthrough Video
+https://drive.google.com/file/d/1eiIR-6EDHBVu_rQcQg2kULU2QPo7cjEW/view?usp=sharing
 
 ## Questions
 Send questions or comments to hankhint@gmail.com and find me on github https://github.com/hankhint
